@@ -34,7 +34,7 @@
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openai-translator/openai-translator.git"
+    "url": "https://github.com/haibinml/openai-translator.git"
   },
   "dependencies": {
     "@aptabase/tauri": "github:aptabase/tauri-plugin-aptabase#v2",
