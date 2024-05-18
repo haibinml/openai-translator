@@ -1840,7 +1840,7 @@ export function InnerSettings({
                         OpenAI Translator
                         {AppConfig?.version ? (
                             <a
-                                href='https://github.com/yetone/openai-translator/releases'
+                                href='https://github.com/haibinml/openai-translator/releases'
                                 target='_blank'
                                 rel='noreferrer'
                                 style={linkStyle}
