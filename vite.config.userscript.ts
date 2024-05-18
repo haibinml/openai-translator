@@ -18,8 +18,8 @@ export default defineConfig({
             entry: 'src/browser-extension/content_script/index.tsx',
             userscript: {
                 name,
-                icon: 'https://cdn.jsdelivr.net/gh/openai-translator/openai-translator/public/icon.png',
-                namespace: 'https://github.com/openai-translator/openai-translator',
+                icon: 'https://cdn.jsdelivr.net/gh/haibinml/openai-translator/public/icon.png',
+                namespace: 'https://github.com/haibinml/openai-translator',
                 match: ['*://*/*'],
                 author: 'https://github.com/openai-translator',
                 license,
